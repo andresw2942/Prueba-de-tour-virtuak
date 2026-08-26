@@ -1,0 +1,17 @@
+# Avisos de terceros
+
+## Photo Sphere Viewer 5.15.1
+
+MIT License. Se redistribuirá junto al runtime exportado cuando el exportador exista.
+
+## Three.js
+
+MIT License. Se redistribuirá junto al runtime exportado cuando el exportador exista.
+
+## Photo Sphere Viewer Gyroscope Plugin 5.15.1
+
+MIT License. Se incluye localmente en el runtime para el control por orientación.
+
+## Photo Sphere Viewer Stereo Plugin 5.15.1
+
+MIT License. Se incluye localmente en el runtime para la vista VR/Cardboard.
